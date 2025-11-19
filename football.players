@@ -1,0 +1,42 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>footballer </title>
+    </head>
+    <body>
+        <table border="5" bgcolor="gree">
+            <tr>
+                <th bgcolor="red" border="10">league</th>
+                <th bgcolor="red " border="10">male footballer</th>
+                <th bgcolor="red " border="10"> female footballer</th>
+            </tr>
+            <tr>
+                <td>primeir league</td>
+                <td> salah</td>
+                <td>sam kerr</td>
+            </tr>
+            <tr>
+                <td>bundeliga</td>
+                <td> lewandoski</td>
+                <td>ewa pajor</td>
+            </tr>
+    
+            <tr>
+                <td>
+                    seria a
+                </td>
+                <td>douglas luiz</td>
+                <td>aisha lehman</td>
+            </tr>
+            <tr>
+                <td>
+                    saudi pro league
+                </td>
+                <td>Cristiano Ronaldo</td>
+                <td> hellen chanda</td>
+            </tr>
+        </table>
+    
+    </body>
+    
+    </html>
